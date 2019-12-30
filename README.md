@@ -7,12 +7,8 @@
 5. Share your Barcode or QR Code. 
 6. Search for your barcode result or Direct link opening. 
 7. Copy as a plain text to use. 
-8. Can able to scan different formats of  QR Codes, Data Matrix, PDF-417, and Aztec values
-9. Supports 1D barcodes: EAN-13, EAN-8, UPC-A, UPC-E, Code-39, Code-93, Code-128, ITF, Codabar
-10. Supports 2D barcodes: QR Code, Data Matrix, PDF-417, Aztec
 
-
-#### Android Topics Covered in This App: #### 
+# Android Topics Covered in This App: #### 
 
  1. Activity & Fragment 
  2. Android Material Design Cocepts 
@@ -22,7 +18,7 @@
  6. Android WebView 
  7. Android Share Intent & Copy To Clipboard 
 
-#### Usages Library & Purpose ####
+# Usages Library & Purpose ####
 
 1. Material Barcode Scanner** - For Barcode & QR Code Scan. 
 
@@ -37,7 +33,7 @@ Dependency : `com.crashlytics.sdk.android:crashlytics:2.7.1@aar`
 Fabric : https://fabric.io/
 
 
-### Follow Me : ### 
+# Follow Me : ### 
 
 Gmail : nadimovi20@gmail.com 
 
